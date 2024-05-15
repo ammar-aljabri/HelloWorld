@@ -264,6 +264,12 @@ foreach(var item in stack)
 }
 
 
+// oop
+
+Animal animal = new Cat();
+animal.eatFood();
+
+
 
 
 
